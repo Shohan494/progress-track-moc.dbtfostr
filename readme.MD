@@ -1,4 +1,4 @@
-# tasks of RTsoftbd.com
+## tasks of RTsoftbd.com
 
 #### 27-11-2017
 
@@ -16,3 +16,11 @@
 - modified the design of barisal trade
 - added chart, statistics and login part
 - also along with bootstrap panels with hover effect
+
+#### 30-11-2017
+
+- modifed the barisal trade design
+- added the second login
+- added new moon project login
+- modified the dummy text contents
+- added logo in center and fixed margin
