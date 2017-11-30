@@ -12,3 +12,7 @@
 -	Configured dtrade and trade_final project in localhost
 
 #### 29-11-2017
+
+- modified the design of barisal trade
+- added chart, statistics and login part
+- also along with bootstrap panels with hover effect
