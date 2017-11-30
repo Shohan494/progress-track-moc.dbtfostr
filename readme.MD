@@ -3,3 +3,4 @@
 #### 27-11-2017
 
 - assignment on basic design of barisal city corp.
+- ensured to start from work next day
