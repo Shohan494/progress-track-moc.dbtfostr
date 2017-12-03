@@ -24,3 +24,9 @@
 - added new moon project login
 - modified the dummy text contents
 - added logo in center and fixed margin
+
+#### 02-12-2017
+
+- hutbazar erp design modified 
+- holding  design modified 
+- modified assignment with joining holding project
