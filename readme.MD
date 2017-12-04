@@ -34,3 +34,7 @@
 #### 03-12-2017
 - php image upload
 - jquery javascript image upload
+
+#### 04-12-2017
+- codeigniter project with admin and member login
+- attendance system design
