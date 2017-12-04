@@ -30,3 +30,7 @@
 - hutbazar erp design modified 
 - holding  design modified 
 - modified assignment with joining holding project
+
+#### 03-12-2017
+- php image upload
+- jquery javascript image upload
