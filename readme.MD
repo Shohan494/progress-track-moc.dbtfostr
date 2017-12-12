@@ -38,3 +38,18 @@
 #### 04-12-2017
 - codeigniter project with admin and member login
 - attendance system design
+
+#### 5-12-2017 --- 12-12-2017
+
+- created basic login logout tracker system
+
+- attendance system visual design modification 
+- system database design 
+- login logout data showing
+
+- added members own login/logout data showing page 
+- edited the time showing view in human readable format(am/pm) 
+- modified login page view
+
+- added count timer 
+- added how many days user are attend without date range
